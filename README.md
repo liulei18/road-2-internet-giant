@@ -44,7 +44,8 @@
 
 
 ## 面试题目
-[01.众安科技](https://github.com/liulei18/road-2-internet-giant/blob/master/FAQ/01.%E4%BC%97%E5%AE%89%E7%A7%91%E6%8A%80.md)
+<a href="https://github.com/liulei18/road-2-internet-giant/blob/master/FAQ/01.%E4%BC%97%E5%AE%89%E7%A7%91%E6%8A%80.md" target="_blank">01.众安科技</a>
+
 
 
 
