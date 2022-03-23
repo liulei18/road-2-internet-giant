@@ -44,15 +44,16 @@
 
 
 ## 面试题目
-<a href="https://github.com/liulei18/road-2-internet-giant/blob/master/FAQ/01.%E4%BC%97%E5%AE%89%E7%A7%91%E6%8A%80.md" target="_blank">01.众安科技</a>
+[01.众安科技](https://github.com/liulei18/road-2-internet-giant/blob/master/FAQ/01.%E4%BC%97%E5%AE%89%E7%A7%91%E6%8A%80.md){:target="_blank"}
 
+<a href="1链接" target="_blank">文字描述</a>
 
 
 
 ## 联系我
 * vx：加好友拉你进群，备注（互联网大厂面试互助群）
 <img width="300" height="450" src="https://user-images.githubusercontent.com/25640589/159681581-3b5fbb4f-3a60-4899-9884-4843b7b98486.JPG"/>  
-telegteleg：https://t.me/+Zn7NGQvwldliZmU1
+telegram：https://t.me/+Zn7NGQvwldliZmU1
 
 ## 写在最后
 欢迎大家通过提issue、pr的方式分享自己面试中遇到的题目以及碰到的坑，淋过雨，所以想给别人撑把伞！
