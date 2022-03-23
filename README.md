@@ -25,6 +25,7 @@
 | 白龙马科技     |   :heavy_check_mark:  | 一面挂     |
 | BOSS直聘      |   :heavy_check_mark:  | 一面挂     |
 | 领创          |   :heavy_check_mark:  | 一面挂     |
+| 火币          |   :heavy_check_mark:  | 一面挂     |
 | 饿了吗        |   :white_check_mark:  | 面试通过，锁hc     |
 | Moka         |   :heavy_check_mark:  | 一面挂     |
 | OPay         |   :white_check_mark:  | 面试通过     |
