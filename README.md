@@ -91,7 +91,7 @@ vx：加好友拉你进群，备注（互联网大厂面试互助群）
 telegram：https://t.me/+Zn7NGQvwldliZmU1
 
 ## 最新工作机会
-* [最新工作机会，持续更新中。。。](https://github.com/liulei18/road-2-internet-giant/blob/master/recruiting/%E6%9C%80%E6%96%B0%E5%B7%A5%E4%BD%9C%E6%9C%BA%E4%BC%9A.md) 
+* [最新工作机会，持续更新中。。。](https://github.com/liulei18/road-2-internet-giant/blob/master/recruiting/latest-jobs.md) 
 
 ## 写在最后
 欢迎大家通过提issue、pr的方式分享自己面试中遇到的题目以及碰到的坑，淋过雨，所以想给别人撑把伞！
