@@ -8,7 +8,7 @@
   * [后端面试题目](#后端面试题目)
   * [前端面试题目](#后端面试题目)
   * [联系我进面试互助群](#联系我进面试互助群)
-  * [工作机会](#工作机会)
+  * [最新工作机会](#最新工作机会)
   * [写在最后](#写在最后)
 
 
@@ -90,8 +90,8 @@ vx：加好友拉你进群，备注（互联网大厂面试互助群）
 <img width="300" height="450" src="https://user-images.githubusercontent.com/25640589/159681581-3b5fbb4f-3a60-4899-9884-4843b7b98486.JPG"/><img width="300" height="450" src="https://user-images.githubusercontent.com/25640589/160169154-1a30fa8c-0d28-4328-a724-bf143f2be6cd.JPG"/>   
 telegram：https://t.me/+Zn7NGQvwldliZmU1
 
-## 工作机会
-* [工作机会，持续更新中。。。](https://github.com/liulei18/road-2-internet-giant/tree/master/recruiting) 
+## 最新工作机会
+* [最新工作机会，持续更新中。。。](https://github.com/liulei18/road-2-internet-giant/blob/master/recruiting/%E6%9C%80%E6%96%B0%E5%B7%A5%E4%BD%9C%E6%9C%BA%E4%BC%9A.md) 
 
 ## 写在最后
 欢迎大家通过提issue、pr的方式分享自己面试中遇到的题目以及碰到的坑，淋过雨，所以想给别人撑把伞！
