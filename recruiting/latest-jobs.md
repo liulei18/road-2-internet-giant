@@ -44,6 +44,23 @@
 4. 懂得摄影、热爱摄影更佳。
 * Base：深圳、上海
 
+## 飞书
+### 岗位名称：高级后端工程师
+* 工作职责
+1. https://job.toutiao.com/s/N4eh8R4
+
+* 任职要求
+1. https://job.toutiao.com/s/N4eh8R4
+
+### 岗位名称：搜索后端工程师（懂ES通过概率大大增加！）
+* 工作职责
+1. https://job.toutiao.com/s/N4eVQcb
+
+* 任职要求
+1. https://job.toutiao.com/s/N4eVQcb
+* 第一个是最急的；第二个是我所在的部门可以提供答疑；其他任何感兴趣的字节技术岗位都可以问我～不要求会Golang，懂一门主流编程语言就行
+
+
 
 
 
