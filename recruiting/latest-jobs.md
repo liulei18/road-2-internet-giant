@@ -144,6 +144,24 @@
 6. 具有中大型企业流程管理工作经验优先，熟悉各业务模块的流程运作体系，熟悉IPD流程优先；
 * Base：杭州
 
+## 懂车帝
+### 岗位名称：前端开发工程师 - 懂车帝
+* 工作职责
+1. https://job.toutiao.com/s/NvbWkyD
+2. https://job.toutiao.com/s/Nvg6YsE
+
+* 任职要求
+1. https://job.toutiao.com/s/NvbWkyD
+2. https://job.toutiao.com/s/Nvg6YsE
+* Base：北京、重庆
+
+### 岗位名称：后端研发工程师 - 懂车帝
+* 工作职责
+1. https://job.toutiao.com/s/Nvg9sdM
+
+* 任职要求
+1. https://job.toutiao.com/s/Nvg9sdM
+* Base：北京
 
 
 
