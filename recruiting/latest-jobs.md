@@ -336,6 +336,10 @@
 
 * 所有岗位都可通过此jd投递：https://job.toutiao.com/s/F8UcV5q  或添加微信：j402373901 提供答疑。
 
+## 亚信
+* https://asiainfo-sec.jobs.feishu.cn/referral/position?keywords=msp&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=&token=MzsxNjUxMTM0NTM3NzgwOzY4Mzc2NzQ2NTUzMTEyNjczMzU7MA
+* 以上4个岗位可部门内推，其他部门也可推荐，但是部门情况不太熟悉
+
 
 
 
