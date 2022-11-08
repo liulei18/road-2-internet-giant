@@ -90,11 +90,11 @@
 ## 联系我进面试互助群
 建了个互助内推群，来自各个互联网公司，一起抱团取暖，群里有内推人解答问题，可帮跟进面试进度。   
 vx：加好友拉你进群，备注（help-2-be-helped）  
-<img width="300" height="450" src="https://user-images.githubusercontent.com/25640589/159681581-3b5fbb4f-3a60-4899-9884-4843b7b98486.JPG"/><img width="300" height="450" src="https://user-images.githubusercontent.com/25640589/160169154-1a30fa8c-0d28-4328-a724-bf143f2be6cd.JPG"/>   
+<img width="300" height="450" src="https://user-images.githubusercontent.com/25640589/159681581-3b5fbb4f-3a60-4899-9884-4843b7b98486.JPG"/><img width="300" height="450" src="https://user-images.githubusercontent.com/25640589/200555685-686a2682-6f2e-47e0-bf78-90e12e2865e0.jpeg"/>   
 telegram：https://t.me/+Zn7NGQvwldliZmU1
 
 ## 美团社招校招实习内推
-<img width="300" height="450" src="https://user-images.githubusercontent.com/25640589/163772410-1dba4cee-109f-4201-bc45-bce391b0598d.jpeg"/><img width="300" height="450" src="https://user-images.githubusercontent.com/25640589/200555685-686a2682-6f2e-47e0-bf78-90e12e2865e0.jpeg"/>
+<img width="300" height="450" src="https://user-images.githubusercontent.com/25640589/163772410-1dba4cee-109f-4201-bc45-bce391b0598d.jpeg"/><img width="300" height="450" src="https://user-images.githubusercontent.com/25640589/163774173-a278f69f-c5bc-49bd-942a-69c8f3ad768b.jpeg"/>
 
 ```
 写在最前：
